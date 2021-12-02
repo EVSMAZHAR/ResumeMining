@@ -5,8 +5,8 @@ NAME_PATTERN = [{'POS': 'PROPN'}, {'POS': 'PROPN'}]
 
 # Education (Upper Case Mandatory)
 EDUCATION = [
-            'BSC', 'BSCS', 'BSIT', 'BSSE', 'BBIT', 'MSC', 'MSCS',
-            'MCS', 'MS', 'M.S', 'BTECH', 'MTECH',
+            'BSC', 'BSCS', 'BSIT', 'BSSE', 'BBIT', 'BSDS','MSDS','MSC', 'MSCS',
+            'MCS', 'MS', 'M.S', 'BTECH', 'MTECH','PHD','MPHIL','ICS' ,'FSC','ICOM','BCOM','DCOM',
             'SSC', 'HSC', 'CBSE', 'ICSE', 'X', 'XII'
         ]
 
